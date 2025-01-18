@@ -428,7 +428,7 @@ class GoToLineSettingTab extends PluginSettingTab {
 			.setName(
 				"Reset all settings to default values. \
 				(Don't forget about the hotkeys! Just search 'Go To Line' \
-				to find the 3 commands.)"
+				to find the 4 commands.)"
 			)
 			.addButton((cb) =>
 				cb.setButtonText("Reset").onClick(async () => {
